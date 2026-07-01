@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+One thing I believe that many people around me disagree with is that girls can support their parents even after marriage, both financially and emotionally. I was born and brought up in a remote village where many people believe that girls do not need higher education because they will get married and become part of another family. However, I strongly believe that educating girls benefits both families and society. A daughter can take care of her parents, help them financially, and stand by them during difficult times just as much as a son can. Marriage should not reduce a woman's responsibility or love for her parents
 
 ---
 
@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Smart work needs than hard work
 
 ### Evidence from my life
 
-Add your answer here...
+When I started working, one of my college used to come up with same kind of idea ,but he used a smart way to present it ,which is he present his idea first. Its a smart move.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Proper sleep directly improves productivity.
 
 ### Evidence from my life
 
-Add your answer here...
+When I am in any troubles, I used to get good sleep and wakeup early. So that my brain works brightly. I witnessed multiple times, I get ideas after good sleep
 
 ---
 
@@ -79,12 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Learning by doing is more effective than learning only through theory
 
 ### Evidence from my life
 
-Add your answer here...
-
+I wanted to learn coding, I started learning theories .I watched multiple youtube videos and browsed various sites.But when I started with small codes 
 ---
 
 # Assignment 3. What does your 2.0 version look like?
@@ -135,13 +134,23 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+Version 2.0 -Blessy
+Blessy S had quietly become one of the most reliable names in site reliability engineering circles, known for turning fragile systems into resilient, scalable platforms. Over the past five years, she built and shipped multiple high-impact automation frameworks that significantly reduced incident response times across distributed systems.
+Her journey was not linear. Following a layoff early in her career, Blessy faced a challenging period marked by uncertainty and setbacks, including difficulties in securing a new role and building a professional presence on LinkedIn. However, she adapted quickly to the industry’s shift toward AI-driven operations, repositioning herself with new skills and a renewed focus. What began as a period of exhaustion and self-doubt became a defining pivot toward growth and resilience.
+As she re-established her path in site reliability engineering, Blessy led the design and implementation of an end-to-end observability platform integrating Prometheus, Grafana, and OpenTelemetry. The platform delivered real-time insights into application performance and reduced Mean Time to Resolution (MTTR) by more than 40%.She built Git repositories, which gained strong traction among engineers,
+She earned advanced certifications, Certified Kubernetes Administrator (CKA), proving her expertise in cloud-native reliability practices. Recently ,she relocated briefly to a global engineering hub for a cross-functional leadership role, where she led a team of 12 engineers managing large-scale production environments serving millions of users daily.
+Blessy also published technical blogs and case studies on scaling microservices, incident postmortems, and cost optimization strategies. Her articles were featured on developer platforms and cited within engineering communities for their practical value. 
+Beyond technical contributions, she mentored junior engineers and actively contributed to the SRE community by organizing internal workshops, speaking at meetups, and guiding open-source contributors. Her leadership style was grounded in clarity, accountability, and continuous improvement.
+Now, Blessy had built not just systems, but trust—earning recognition within her organization as a go-to expert during critical incidents. She contributed to defining reliability standards that became foundational across teams.
+Her 2.0 version was not defined by titles alone, but by impact: systems that stayed up, teams that grew stronger, and knowledge that scaled beyond her immediate circle.
+
+
 
 ### Public Link
 
 Paste your link here:
 
-`__________________________`
+`https://www.linkedin.com/posts/share-7478122147031248896--UHq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74`
 
 ---
 
@@ -173,7 +182,9 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+I felt guilty, stressed, and worried after taking a shortcut instead of doing things in the right way. Even though it may have saved time in the beginning, I kept thinking about whether I had made the correct decision. The feeling of not being completely honest made me uncomfortable and affected my peace of mind. I also felt regret because I realized that doing things properly, even if it takes more effort, gives better satisfaction and confidence. This experience taught me that integrity and honesty are important, and shortcuts are often not worth the emotional burden they create.
+Making shortcuts sometimes save times ,but in long run it feels too guilty and some times by skipping the task genuinely missed some opportunities as well.
+
 
 ---
 
@@ -199,16 +210,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. Atomic Habits – James Clear
+2. Ikigai: The Japanese Secret to a Long and Happy Life – Héctor García and Francesc Miralles
+3. Wings of Fire – A. P. J. Abdul Kalam and Arun Tiwari
+4. The Monk Who Sold His Ferrari – Robin Sharma
+5. Life's Amazing Secrets – Gaur Gopal Das
+6. Connect the Dots – Rashmi Bansal
+7. The Lean Startup – Eric Ries
+8. Zero to One – Peter Thiel
+9. Measure What Matters – John Doerr
+10. Build, Don't Talk – Raj Shamani
 
 ---
 
@@ -237,16 +248,16 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Screen time
+* Sleep hours
+* Workouts per week
+* Daily steps
+* Monthly savings
+* Emergency fund status
+* Certifications completed
+* New skills acquired
+* Learning hours per week
+* My weight
 
 ---
 
@@ -268,11 +279,11 @@ Examples:
 
 ### Did You Do It?
 
-**Yes / No**
+**Yes **
 
 Answer:
+I do write my brain journeys into notebook.I might include task to complete, my goals, ideas ,any pending works and responsibilities 
 
-Add your answer here...
 
 ---
 
@@ -290,7 +301,12 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+Monday – Thursday: 60–90 min deep work/45–60 min project building/15 min notes
+Friday: Revision
+Sat:DMI session
+Sunday: Church /Family time /Community learning 
+
+
 
 ---
 
@@ -298,11 +314,10 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
-
+Monday – Thursday: 11:00 AM IST – 1:00 PM IST
 #### How Many Sessions Per Week?
 
-Add your answer here...
+4 weekday sessions for project submission and 8hours longer Saturday sessions
 
 ---
 
@@ -316,7 +331,8 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+Keep my phone away when I am in serious studies 
+Cut down social media usage
 
 ---
 
@@ -324,15 +340,14 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+Consistency matters more than motivation, and even small focused sessions helped me make real progress.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I noticed a pattern of overthinking and delaying execution, especially when tasks feel difficult or unclear.
 
 ### One system I will implement from this week (exact habit + time)
-
-Add your answer here...
+I will do 1 hour of distraction-free deep work every weekday from 7:00 PM to 8:00 PM
 
 ### LinkedIn Post
 
