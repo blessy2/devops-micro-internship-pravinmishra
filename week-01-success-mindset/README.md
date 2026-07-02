@@ -364,7 +364,7 @@ Paste your LinkedIn post link here:
 ## 10. Proof of Work
 
 - LinkedIn Post URL: https://www.linkedin.com/posts/blessy-s-06b379269_devops-devopsmicrointernship-agenticai-activity-7478403128309207040-H3Ye?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74  
-- Blog / Medium : https://medium.com/p/741e363f308f?postPublishedType=initial 
+- Blog / Medium : https://medium.com/@blessys2010/week-1-of-my-devops-micro-internship-journey-741e363f308f?sharedUserId=blessys2010
 
 ---
 
