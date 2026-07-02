@@ -215,6 +215,7 @@ Choose books that improve:
 2. Ikigai: The Japanese Secret to a Long and Happy Life – Héctor García and     Francesc Miralles
 ![book2](screenshots/ikigai.jpg)
 3. Wings of Fire – A. P. J. Abdul Kalam and Arun Tiwari
+![book2](screenshots/wings_of_fire.jpg)
 4. The Monk Who Sold His Ferrari – Robin Sharma
 5. Life's Amazing Secrets – Gaur Gopal Das
 6. Connect the Dots – Rashmi Bansal
@@ -356,14 +357,14 @@ I will do 1 hour of distraction-free deep work every weekday from 7:00 PM to 8:0
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+`https://www.linkedin.com/posts/blessy-s-06b379269_devops-devopsmicrointernship-agenticai-activity-7478403128309207040-H3Ye?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: https://www.linkedin.com/posts/blessy-s-06b379269_devops-devopsmicrointernship-agenticai-activity-7478403128309207040-H3Ye?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74  
+- Blog / Medium : https://medium.com/p/741e363f308f?postPublishedType=initial 
 
 ---
 
