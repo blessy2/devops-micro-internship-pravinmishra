@@ -20,7 +20,7 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 #### Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 
-Add your screenshot here.
+![login2](screenshots/ass2_folder.jpg)
 
 ---
 
@@ -34,7 +34,8 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 #### Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
 
-Add your screenshot here.
+![md1](screenshots/ass2_claudemd1.jpg)
+![md2](screenshots/ass2_claudemd2.jpg)
 
 ---
 
@@ -48,7 +49,8 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
-Add your screenshot here.
+![md2](screenshots/ass2_custom1.jpg)
+![md2](screenshots/ass2_custom2.jpg)
 
 ---
 
@@ -62,13 +64,14 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
 
-Add your screenshot here.
+![md2](screenshots/ass2_astate1.jpg)
+![md2](screenshots/ass2_astate2.jpg)
 
 ---
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
-Add your screenshot here.
+![md2](screenshots/ass2_astate2.jpg)
 
 ---
 
@@ -82,7 +85,7 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-Add your screenshot here.
+![md2](screenshots/ass2_git.jpg)
 
 ---
 
@@ -98,7 +101,7 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+`https://github.com/blessy2/Ultimate-Agentic-DevOps-with-Claude-Code.git`
 
 ---
 
