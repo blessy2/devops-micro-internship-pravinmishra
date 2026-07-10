@@ -117,6 +117,7 @@ Prove the logging hook runs after a successful command execution and records Ter
 #### Screenshot 9 — `.claude/deploy.log` showing the logged command
 
 ![fol2](screenshots/ass6_terra.jpg)
+![fol2](screenshots/ass6_terra_valid.jpg)
 
 # Submission Instructions
 

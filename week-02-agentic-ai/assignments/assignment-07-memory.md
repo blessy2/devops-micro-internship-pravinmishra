@@ -75,7 +75,7 @@ Where does your memory file live for this project? Show me the full path.
 **Expected Output:** Claude gives you the full absolute path to the `MEMORY.md` file. The file may be empty or not yet exist — that is fine.
 
 **Screenshots Required:**
-- Screenshot 1 — Memory file path shown by Claude
+![fol2](screenshots/ass7_mem1.jpg)
 
 ---
 
