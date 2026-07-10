@@ -20,7 +20,7 @@ Create the `.claude/agents/` directory and add all required agent files.
 
 #### Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
-Add your screenshot here.
+![md2](screenshots/ass4_agent_list.jpg)
 
 ---
 
@@ -34,19 +34,18 @@ Analyze the configuration differences between the three agents and demonstrate u
 
 #### 1. Why does the cost optimizer use Haiku instead of Sonnet?
 
-Add your answer here...
-
+Haiku is a cost-effective model which is the best option for cost optimizer activities such as checking Terraform resources and identifying possible cost-saving improvements.Here no deep reasoning like security analysis needed.
 ---
 
 #### 2. Why does the security auditor NOT have Write in its tools list?
 
-Add your answer here...
+The main activity of a security designer is to inspect and analyse the terraform configuration. There is no modification of files needed , hence write permission not required. By removing write permission, any accidental modification of file avoided and it ensure least privilege security principle.
 
 ---
 
 #### 3. Why does the tf-writer use `inherit` instead of a specific model?
 
-Add your answer here...
+Terraform writer perform code generation and modification which is a highly flexible activity.Inherit allow to use default model configuration from Claude instead of forcing a fixed one.
 
 ---
 
@@ -54,13 +53,13 @@ Add your answer here...
 
 #### Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
 
-Add your screenshot here.
+![md2](screenshots/ass4_secur_aud.jpg)
 
 ---
 
 #### Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
-Add your screenshot here.
+![md2](screenshots/ass4_cost_op.jpg)
 
 ---
 
@@ -74,13 +73,13 @@ Trigger the security auditor agent and analyze the generated security report for
 
 #### Screenshot 4 — The delegation message showing Claude launched the security-auditor
 
-Add your screenshot here.
+![md2](screenshots/ass4_sec_q.jpg)
 
 ---
 
 #### Screenshot 5 — Security audit report output
 
-Add your screenshot here.
+![md2](screenshots/ass4_sec_au1.jpg)
 
 ---
 
@@ -94,7 +93,8 @@ Trigger the cost optimizer agent and review the generated cost optimization repo
 
 #### Screenshot 6 — The full cost optimization report
 
-Add your screenshot here.
+![md2](screenshots/ass4_cost1.jpg)
+![md2](screenshots/ass4_cost2.jpg)
 
 ---
 
