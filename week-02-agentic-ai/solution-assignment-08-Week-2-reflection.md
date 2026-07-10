@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![fol2](screenshots/ass8_blog.jpg)
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`__________________________________________`
+`https://medium.com/@blessys2010/week-2-of-the-devops-micro-internship-7beeb1ee8ff3?sharedUserId=blessys2010`
 
 ---
 
@@ -92,7 +92,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![fol2](screenshots/ass8_link.jpg)
 
 ---
 
@@ -101,14 +101,16 @@ Add your screenshot here.
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+Week 2 of the DevOps Micro Internship reminded me once again that consistency is more important than trying to learn everything at once. Every day brought something new to explore, and although there were challenges, each one became an opportunity to learn and improve.
+This week, I worked with Claude Code, learned about Skills, explored Hooks, and got introduced to MCP (Model Context Protocol). 
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( [https://lnkd.in/gbKpC7Kr) ).
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`__________________________________________`
+`https://www.linkedin.com/posts/share-7481282326887415808-xwFP/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74`
 
 ---
 
