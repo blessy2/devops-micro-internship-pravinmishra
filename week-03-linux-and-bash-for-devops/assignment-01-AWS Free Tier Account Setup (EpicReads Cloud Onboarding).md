@@ -27,9 +27,13 @@ At this stage of the DMI, an AWS account is essential because we need a real clo
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
+The AWS free tuer us a program offered by Amazon Web Service(AWS) that allows userd to explote,learn and experiment with cloud services at little or no cost. 
+
 The AWS Free Tier is a program offered by Amazon Web Services (AWS) that allows users to explore, learn, and experiment with cloud services at little or no cost.
 When you create a new AWS Free Tier account, you get $100 in credits immediately. As you explore key services, you can earn up to $100 more. That's up to $200 over 6 months to build, break things, and experiment with no charges and no surprise bills on the Free plan. The account closes on its own 6 months after you open it or when your credits run out, whichever comes first. You won’t be charged unless you convert to a Paid plan.
---------
+
+
+
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
