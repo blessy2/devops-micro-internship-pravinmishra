@@ -20,19 +20,23 @@ Demonstrate understanding of AWS basics and Free Tier usage by answering the fol
 
 #### Question 1 — What is an AWS account, and why do you need it at this stage?
 
-Write your answer here.
+An AWS account is a unique identity that allows an individual or organization to access Amazon Web Services (AWS). It provides access to cloud services such as Amazon EC2, Amazon S3, Amazon RDS, and many others, while also managing resource usage and billing.
+At this stage of the DMI, an AWS account is essential because we need a real cloud environment to practice.An AWS Free Tier account allows students to experiment with cloud services at little to no cost while building practical skills
 
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+The AWS Free Tier is a program offered by Amazon Web Services (AWS) that allows users to explore, learn, and experiment with cloud services at little or no cost.
 
----
+When you create a new AWS Free Tier account, you get $100 in credits immediately. As you explore key services, you can earn up to $100 more. That's up to $200 over 6 months to build, break things, and experiment with no charges and no surprise bills on the Free plan. The account closes on its own 6 months after you open it or when your credits run out, whichever comes first. You won’t be charged unless you convert to a Paid plan.
+--------
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+Amazone Ec2 -Use credits to access Amazon EC2 features in  Free plans. Free plan eligible instances include:T3.micro, T3.small, T4g.micro, T4g.small, C7i-flex.large, M7i-flex.large
+Amazon S3-Use credits to access Amazon S3 features in both Free plan.
+Amazon RDS:Use credits to access Amazon RDS features in  Free plans. Free plan eligible instances include:db.t3.micro and db.t4g.micro and 4 engines: MySQL, PostgreSQL, MariaDB, and Microsoft SQL Server
 
 ---
 
@@ -56,7 +60,7 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-Add your screenshot here.
+![login2](screenshots/login1.png)
 
 ---
 
