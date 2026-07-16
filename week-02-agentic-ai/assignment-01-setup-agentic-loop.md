@@ -79,7 +79,7 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather â
 
 https://github.com/blessy2/Ultimate-Agentic-DevOps-with-Claude-Code.git
 
-`__________________________`
+`Add your URL here`
 
 ---
 

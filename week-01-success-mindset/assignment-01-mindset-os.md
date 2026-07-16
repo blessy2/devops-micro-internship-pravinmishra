@@ -150,7 +150,11 @@ Her 2.0 version was not defined by titles alone, but by impact: systems that sta
 
 Paste your link here:
 
+<<<<<<< HEAD
 `https://www.linkedin.com/posts/share-7478122147031248896--UHq/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74`
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 
@@ -357,7 +361,11 @@ I will do 1 hour of distraction-free deep work every weekday from 7:00 PM to 8:0
 
 Paste your LinkedIn post link here:
 
+<<<<<<< HEAD
 `https://www.linkedin.com/posts/blessy-s-06b379269_devops-devopsmicrointernship-agenticai-activity-7478403128309207040-H3Ye?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74`
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 

@@ -54,7 +54,11 @@ You can publish your blog on:
 
 Blog Link:
 
+<<<<<<< HEAD
 `https://medium.com/@blessys2010/week-2-of-the-devops-micro-internship-7beeb1ee8ff3?sharedUserId=blessys2010`
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 
@@ -110,7 +114,11 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 ### LinkedIn Post Link:
 
+<<<<<<< HEAD
 `https://www.linkedin.com/posts/share-7481282326887415808-xwFP/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74`
+=======
+`Add your URL here`
+>>>>>>> upstream/main
 
 ---
 
