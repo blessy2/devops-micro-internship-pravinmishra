@@ -61,7 +61,7 @@ ubuntu@ip-172-31-14-80:~$
 **2. What proves SSH is active on port 22?**
 
 From command `sudo ss -tulpen |grep ssh` , I see 22 as portnumber for ssh
-````
+```
 ubuntu@ip-172-31-14-80:~$ sudo ss -tulpen |grep ssh
 tcp   LISTEN 0      4096             0.0.0.0:22        0.0.0.0:*    users:(("sshd",pid=24891,fd=3),("systemd",pid=1,fd=210))                           ino:16048 sk:6 cgroup:/system.slice/ssh.socket <->
 tcp   LISTEN 0      4096                [::]:22           [::]:*    users:(("sshd",pid=24891,fd=4),("systemd",pid=1,fd=223))                           ino:16050 sk:a cgroup:/system.slice/ssh.socket v6only:1 <->
