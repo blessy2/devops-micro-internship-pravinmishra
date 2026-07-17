@@ -20,13 +20,13 @@ Verify that Bash is available on your system and create a clean workspace for th
 
 #### Screenshot 1 — Output of `echo $SHELL` and `bash --version`
 
-Add your screenshot here.
+![login2](screenshots/bash1.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `pwd` and `ls -lah` showing the scripts directory
 
-Add your screenshot here.
+![login2](screenshots/pwd.jpg)
 
 ---
 
@@ -36,19 +36,27 @@ Answer the following in your own words:
 
 **1. What is Bash?**
 
-Add your answer here.
+Bash stands for Bourne Again Shell. It is the default command-line shell.It allows users to execute commands, manage files, run programs, and automate tasks using shell scripts
 
 ---
 
 **2. What is the difference between shell and Bash?**
 
-Add your answer here.
+A shell is a program that provides a command-line interface between the user and the operating system.It is a generic term.There are many types of shells, such as Bash, Sh.Whereas ,Bash (Bourne Again Shell) is a specific type of shell.
+
+Examples of Shells
+....................
+Bash (Bourne Again Shell)
+Sh (Bourne Shell)
+Zsh (Z Shell)
+Ksh (Korn Shell)
+Csh (C Shell)
 
 ---
 
 **3. Why is it important to confirm the Bash version before writing scripts?**
 
-Add your answer here.
+because different Bash versions support different features. A script written for a newer version of Bash may not work on an older system.
 
 ---
 
@@ -62,19 +70,19 @@ Create your first Bash script, make it executable, and run it from the terminal.
 
 #### Screenshot 1 — Content of `first-script.sh`
 
-Add your screenshot here.
+![login2](screenshots/script1.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `./first-script.sh`
 
-Add your screenshot here.
+![login2](screenshots/script2.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `ls -l first-script.sh` showing executable permission
 
-Add your screenshot here.
+![login2](screenshots/script3.jpg)
 
 ---
 
@@ -84,19 +92,19 @@ Answer the following in your own words:
 
 **1. What is the purpose of `#!/bin/bash`?**
 
-Add your answer here.
+`#!/bin/bash` is called the shebang line. It tells the operating system to use the Bash interpreter to run the commands inside the sh script
 
 ---
 
 **2. Why do we use `chmod +x` before running a script?**
 
-Add your answer here.
+this command will change the executable permission of the file
 
 ---
 
 **3. What is the difference between running a script using `./script.sh` and `bash script.sh`?**
 
-Add your answer here.
+./script.sh need executable permission to run the command ,whereas `bash script.sh` not needed executable permission to run it as it is a direct file run from bash shell.Bash shell only uses to execute the file even if the inside script has different shell.
 
 ---
 
@@ -110,14 +118,14 @@ Use variables to store and display user-related information.
 
 #### Screenshot 1 — Content of `user-info.sh`
 
-Add your screenshot here.
+
+![login2](screenshots/user.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `./user-info.sh`
 
-Add your screenshot here.
-
+![user1](screenshots/user1.jpg)
 ---
 
 ### Notes
@@ -126,19 +134,21 @@ Answer the following in your own words:
 
 **1. What is a variable in Bash?**
 
-Add your answer here.
+Variable is a name used which can hold any data ,and its can be used multiple times in a script ,so that orginal data no need to use directly.
 
 ---
 
 **2. Why should we avoid spaces around the `=` sign when creating variables?**
 
-Add your answer here.
+Bash does not allow spaces around the = sign when assigning a value to a variable. If add space ,then bash will treat it as a command.
 
 ---
 
 **3. How do you access the value stored inside a Bash variable?**
 
-Add your answer here.
+We add the $ symbol before the variable name to access its stored value. 
+Example:  
+    `echo "$e_variable"`
 
 ---
 
@@ -152,13 +162,13 @@ Use arrays and loops to print a checklist of tools used in Bash scripting.
 
 #### Screenshot 1 — Content of `tools-checklist.sh`
 
-Add your screenshot here.
+![login2](screenshots/user2.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `./tools-checklist.sh`
 
-Add your screenshot here.
+![login2](screenshots/user3.jpg)
 
 ---
 
@@ -168,25 +178,25 @@ Answer the following in your own words:
 
 **1. What is an array in Bash?**
 
-Add your answer here.
+An array is used to store multiple values under one variable name.
 
 ---
 
 **2. Why are arrays useful in scripts?**
 
-Add your answer here.
+Arrays allow us to keep related values together.
 
 ---
 
 **3. What does `"${tools[@]}"` mean?**
 
-Add your answer here.
+It is used to access each values in tools array.
 
 ---
 
 **4. What is the purpose of the `for` loop in this script?**
 
-Add your answer here.
+The for loop goes through each value in the tools array one by one.
 
 ---
 
@@ -200,13 +210,13 @@ Use loops to repeat a task multiple times.
 
 #### Screenshot 1 — Content of `counter.sh`
 
-Add your screenshot here.
+![login2](screenshots/number1.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `./counter.sh`
 
-Add your screenshot here.
+![login2](screenshots/number2.jpg)
 
 ---
 
@@ -222,19 +232,19 @@ Add your answer here.
 
 **2. Why do we use loops in Bash scripting?**
 
-Add your answer here.
+A loop is used to repeat a task multiple times.Hence no need to write same ctask multiple time.
 
 ---
 
 **3. How many times did the loop run in your script?**
 
-Add your answer here.
+Five times.
 
 ---
 
 **4. What would you change if you wanted the loop to run 10 times?**
 
-Add your answer here.
+We need to add 6 to 10 numbers in `for`
 
 ---
 
@@ -248,19 +258,19 @@ Use file checks and conditionals to verify whether files and directories exist.
 
 #### Screenshot 1 — Output of `ls -lah ../test-folder`
 
-Add your screenshot here.
+![login2](screenshots/fold.jpg)
 
 ---
 
 #### Screenshot 2 — Content of `file-check.sh`
 
-Add your screenshot here.
+![login2](screenshots/file-check.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `./file-check.sh`
 
-Add your screenshot here.
+![login2](screenshots/valfile.jpg)
 
 ---
 
@@ -270,25 +280,25 @@ Answer the following in your own words:
 
 **1. What does `-d` check in Bash?**
 
-Add your answer here.
+The -d option checks whether the given path exists and whether it is a directory.
 
 ---
 
 **2. What does `-f` check in Bash?**
 
-Add your answer here.
+`-f` indicates whether its a file exist
 
 ---
 
 **3. Why should file and directory paths be stored in variables?**
 
-Add your answer here.
+Usage of variables make the script to be more structured to read and update.
 
 ---
 
 **4. What happens if the file does not exist?**
 
-Add your answer here.
+if file doesnot exist , `-f` condition become false, so that else condition command will run.
 
 ---
 
@@ -302,25 +312,25 @@ Use if-else conditionals to make decisions based on a variable value.
 
 #### Screenshot 1 — Content of `score-check.sh` with `score=85`
 
-Add your screenshot here.
+![login2](screenshots/score_check.jpg)
 
 ---
 
 #### Screenshot 2 — Output showing `Result: Pass`
 
-Add your screenshot here.
+![login2](screenshots/fi.jpg)
 
 ---
 
 #### Screenshot 3 — Content of `score-check.sh` with `score=55`
 
-Add your screenshot here.
+![login2](screenshots/score55.jpg)
 
 ---
 
 #### Screenshot 4 — Output showing `Result: Retry`
 
-Add your screenshot here.
+![login2](screenshots/score_output.jpg)
 
 ---
 
@@ -330,25 +340,25 @@ Answer the following in your own words:
 
 **1. What is the purpose of if-else in Bash?**
 
-Add your answer here.
+It give a condition .`if ` condition is true ,then it will be executed. IF condition is false ,then `else` condition will work.
 
 ---
 
 **2. What does `-ge` mean?**
 
-Add your answer here.
+`-ge` means greater than or equal.
 
 ---
 
 **3. Why should conditions be tested with different values?**
 
-Add your answer here.
+We need to test all the possible conditions for if condition to be true and the false condition.
 
 ---
 
 **4. How can conditionals help in automation scripts?**
 
-Add your answer here.
+Condition helps to  take decisions inside scripts.
 
 ---
 
@@ -362,19 +372,19 @@ Create a final Bash script using functions to organize reusable code.
 
 #### Screenshot 1 — Content of `final-automation.sh`
 
-Add your screenshot here.
+![login2](screenshots/final.jpg)
 
 ---
 
 #### Screenshot 2 — Output of `./final-automation.sh`
 
-Add your screenshot here.
+![login2](screenshots/final1.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `ls -lah` showing all created scripts
 
-Add your screenshot here.
+![login2](screenshots/final2.jpg)
 
 ---
 
@@ -384,26 +394,28 @@ Answer the following in your own words:
 
 **1. What is a function in Bash?**
 
-Add your answer here.
-
+function is a block of specif commands. Users can use the function name inside the script to call them multiple times, so that adding number of commands multiple time can be avoided.
 ---
 
 **2. Why are functions useful in scripts?**
 
-Add your answer here.
+Functions help us separate a large script into smaller sections. So that script become easy to read and understandable.
 
 ---
 
 **3. Which functions did you create in this script?**
 
-Add your answer here.
+There are four functions .
+1.print_header
+2.print_user_details
+3.check_files checks
+4.print_tools 
 
 ---
 
 **4. How does this final script combine variables, arrays, loops, conditionals, files, and functions?**
 
-Add your answer here.
-
+Final script uses variables to store names,assignment name, and the required paths. Array to store the tool names and a loop to print them one by one. It uses if-else conditionals with -d and -f to check the required directory and file.Functions are used to organize specific commands.
 ---
 
 # LinkedIn Post (Required)
@@ -414,13 +426,13 @@ Add your answer here.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/blessy-s-06b379269_dmibypravinmishra-devops-agenticai-share-7483780458024124417-NKlz/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74`
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![login2](screenshots/link2.jpg)
 
 ---
 
