@@ -342,7 +342,6 @@ Answer the following in your own words:
 
 Below 3 checks failed :
 ```
-
 [FAIL] Nginx service is not active
 [FAIL] Port 80 is not listening
 [FAIL] Local HTTP check returned status 000
@@ -352,22 +351,23 @@ Below 3 checks failed :
 
 **2. What evidence supports the conclusion that Nginx is unavailable?**
 
-
+```
 [FAIL] Nginx service is not active
 [FAIL] Port 80 is not listening
 [FAIL] Local HTTP check returned status 000
  indicate that nginx is not working.
----
+ ```
+
 
 **3. Did Claude execute the recovery command? Why is that important?**
 
 No its not. Becuase I must review and approve the claude action.
----
+
 
 **4. Which phase of the Agentic Loop is represented by the Bash report?**
 
 Gather. Script collect current evidence on nginx,port 80,disk usage and memory.
----
+
 
 **5. Which phase is represented by Claude's explanation?**
 
