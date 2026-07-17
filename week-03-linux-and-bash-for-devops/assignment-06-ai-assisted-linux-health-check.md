@@ -421,25 +421,26 @@ nginx service start done manually.
 
 **2. What evidence proves that the service recovered?**
 
-
+`systemctl status nginx` shows as active ,which means the service is recovered.Also `curl -I http://localhost` returns 200 success message. 
 
 ---
 
 **3. Why is the second triage run necessary?**
 
-Add your answer here.
+Starting nginx is alone not necessary that application is ok.Other validation done in second triage which include service, port, HTTP response, disk, and memory.
 
 ---
 
 **4. What could go wrong if an AI agent automatically restarted every failed service?**
 
-Add your answer here.
+Restart failed services by AI agent automatically can go wrong, if not identify the actual cause of service failure. It can be underlying resource like disk or memory issues.The evidence should be reviewed before taking action.
+
 
 ---
 
 **5. In one sentence, explain the difference between using AI as a chatbot and using AI in this agentic workflow.**
 
-Add your answer here.
+A chatbot is only to answer user queries ,however agentic workflow helps to gather and analyse real server evidence while human remain to approve the recovery actions.
 
 ---
 
@@ -529,13 +530,13 @@ Gather -> Analyze -> Human Act -> Verify
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/blessy-s-06b379269_dmibypravinmishra-devops-agenticai-activity-7483886444806336512-yHlE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74`
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![ok](screenshots/linkdn1.jpg)
 
 ---
 
