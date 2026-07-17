@@ -424,14 +424,14 @@ Because ,it may cause chanrges as we uses. So terminate the instance is the best
 
 Paste your LinkedIn post URL here:
 
-`https://www.linkedin.com/posts/activity-7483435177814327297-upwb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74`
+`https://www.linkedin.com/posts/blessy-s-06b379269_dmibypravinmishra-devops-agenticai-activity-7483893258146902016-KJ5w?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74`
 =======
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-![login2](screenshots/link1.jpg)
+![login2](screenshots/linkdn2.jpg)
 
 ---
 
