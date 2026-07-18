@@ -226,7 +226,7 @@ Answer the following in your own words:
 
 **1. What is a loop?**
 
-Add your answer here.
+Loop is a repeatable action ,add it execute multiple time.
 
 ---
 
