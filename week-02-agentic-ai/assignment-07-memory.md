@@ -92,7 +92,7 @@ Run three tests that prove Claude remembers what you told it — without you say
 
 Paste your Linkedin post link here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/blessy-s-06b379269_devops-ai-claudecode-share-7484975593667817472-REcF/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74`
 
 ---
 
@@ -100,7 +100,7 @@ Paste your Linkedin post link here:
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+`https://github.com/blessy2/Ultimate-Agentic-DevOps-with-Claude-Code.git`
 
 ---
 
