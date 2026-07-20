@@ -76,8 +76,8 @@ This is not a course. It is an internship-style program — real deployments, re
  Week 02 → Agentic AI with Claude Code
 [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
-<!-- Week 03 → Linux & Bash for DevOps -->
-<!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
+ Week 03 → Linux & Bash for DevOps
+ [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/)
 
 <!-- Week 04 → Git & GitHub -->
 <!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) -->
@@ -130,11 +130,11 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
-| 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
-| 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed| ✅ Solved | https://www.linkedin.com/posts/blessy-s-06b379269_to-ensure-that-i-am-industry-ready-to-take-activity-7440680650346704896-h5-S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74 | https://medium.com/@blessys2010/ready-for-it-changes-eacc26049270 |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/blessy-s-06b379269_devops-devopsmicrointernship-agenticai-activity-7478403128309207040-H3Ye?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74  | https://medium.com/@blessys2010/week-1-of-my-devops-micro-internship-journey-741e363f308f |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved| https://www.linkedin.com/posts/activity-7481050894013333504-DHvQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74 | https://medium.com/@blessys2010/week-2-of-the-devops-micro-internship-7beeb1ee8ff3 |
+| 03 | Linux for DevOps | ✅ Completed| ✅ Solved | https://www.linkedin.com/posts/blessy-s-06b379269_dmibypravinmishra-devops-agenticai-activity-7483780459903025152-Xhdg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74 | https://medium.com/@blessys2010/understand-linux-better-4b8b00acdaa4 |
+| 04 | Bash Scripting | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/blessy-s-06b379269_dmibypravinmishra-devops-agenticai-activity-7483893258146902016-KJ5w?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74 |  https://medium.com/@blessys2010/understand-linux-better-4b8b00acdaa4 |
 | 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
 | 06 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
