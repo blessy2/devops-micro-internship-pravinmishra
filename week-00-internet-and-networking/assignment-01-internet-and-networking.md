@@ -252,7 +252,8 @@ P.S. This post is part of the FREE DevOps Micro Internship Cohort run by Pravin 
 **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. 
 My graded progress is public: https://lnkd.in/d5jnG2fH · 
 Start your DevOps journey:
-https://lnkd.in/dB8C7bcd```
+https://lnkd.in/dB8C7bcd
+```
 ---
 
 # Reflection – Week 0
