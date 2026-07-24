@@ -27,7 +27,7 @@ Confirm you are working in your own fork, then create a dedicated branch for thi
 
 #### Screenshot 1 — Output of git remote -v and git branch showing the new branch
 
-Add your screenshot here.
+![init2](screenshots/branch1.jpg)
 
 ---
 
@@ -35,7 +35,7 @@ Add your screenshot here.
 
 **1. Why create a dedicated branch instead of doing this work on main?**
 
-Add your answer here.
+Its easy for tracking the changes if we commit the changes in a branch rather than main.It provides isolation to the main content.
 
 ---
 
@@ -49,7 +49,7 @@ On your own fork of this repository (the one you've been submitting your DMI wor
 
 #### Screenshot 1 — Output of  `git status` showing the staged file on feature/ai-pr-ready
 
-Add your screenshot here.
+![init2](screenshots/status6.jpg)
 
 ---
 
@@ -71,13 +71,13 @@ Create a tracked, shareable pre-commit hook that blocks a commit containing secr
 
 #### Screenshot 2 — `hooks/pre-commit` open in VS Code showing the full script
 
-Add your screenshot here.
+![init2](screenshots/hooks.jpg)
 
 ---
 
 #### Screenshot 3 — Output of `git config core.hooksPath` confirming it points to `hooks`
 
-Add your screenshot here.
+![init2](screenshots/hook.jpg)
 
 ---
 
@@ -105,7 +105,7 @@ Attempt to commit the staged file from Task 1 and show the hook rejecting it.
 
 #### Screenshot 4 — Terminal showing `git commit` rejected with the hook's "BLOCKED" message naming the exact file
 
-Add your screenshot here.
+![init2](screenshots/blocked.jpg)
 
 ---
 
@@ -113,7 +113,7 @@ Add your screenshot here.
 
 **1. Which line in `hooks/pre-commit` matched your fake key, and why did it match?**
 
-Add your answer here.
+Add your answer here.cd 
 
 ---
 
@@ -133,13 +133,15 @@ Create a manually invoked Claude Code skill that reads your staged changes and p
 
 #### Screenshot 5 — `SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no `Write`) and `disable-model-invocation: true`
 
-Add your screenshot here.
+![init2](screenshots/skill.jpg)
 
 ---
 
 #### Screenshot 6 — `/pr-ready` output while the risky file is still staged, showing it flagged the secret and/or debug statement
 
-Add your screenshot here.
+![init2](screenshots/pre-ready2.jpg)
+![init2](screenshots/pre-ready1.jpg)
+![init2](screenshots/pre-ready.jpg)
 
 ---
 
@@ -167,13 +169,13 @@ Remove the secret and debug statement, then prove both gates now pass clean.
 
 #### Screenshot 7 — `git commit` succeeding after the fix (no BLOCKED message)
 
-Add your screenshot here.
+![init2](screenshots/commit6.jpg)
 
 ---
 
 #### Screenshot 8 — Second `/pr-ready` run showing a clean risk report and a drafted PR title + description
 
-Add your screenshot here.
+![init2](screenshots/pr3.jpg)
 
 ---
 
@@ -197,13 +199,13 @@ Push your branch and open a real Pull Request, using `/pr-ready`'s drafted title
 
 #### Screenshot 9 — Your Pull Request showing the base repository is your own fork, plus the title and description, with the `/pr-ready` draft visible for comparison (paste it in the PR conversation or your notes below)
 
-Add your screenshot here.
+![init2](screenshots/pr4.jpg)
 
 ---
 
 #### PR Link
 
-Add your PR URL here...
+`https://github.com/pravinmishraaws/devops-micro-internship-interviews/pull/396`
 
 ---
 
@@ -211,19 +213,19 @@ Add your PR URL here...
 
 **1. What, if anything, did you edit in the AI's drafted PR description before using it? Why?**
 
-Add your answer here.
+This is part of human action. AI based draft needs to be carefully checked with human intervention.
 
 ---
 
 **2. If you had blindly copy-pasted the AI's draft without reading it, what could go wrong?**
 
-Add your answer here.
+Blindly copy the AI based draft could lead to reject the PR request.
 
 ---
 
 **3. Why does this PR need to target your own fork instead of the shared upstream repository?**
 
-Add your answer here.
+The pull request should be created from my fork because I don't have direct write access to the shared upstream repository. Using a fork allows me to work safely in my own repository and submit my changes for review without affecting the original project.
 
 ---
 
@@ -237,32 +239,32 @@ Explain this assignment's workflow using the same Gather → Analyze → Human A
 
 **1. Which step(s) represent Gather?**
 
-Add your answer here.
-
+Gather includes reviewing the repository, checking the modified files, reading the Git status, examining the commit history, and collecting the information needed to prepare the pull request.
 ---
 
 **2. Which step(s) represent Analyze?**
 
-Add your answer here.
+Analyze includes using AI to review the changes, generate a draft pull request description, identify possible improvements, and verify that the summary accurately reflects the code changes.
 
 ---
 
 **3. Which step is Human Act, and why must a human — not Claude — run `git commit`, `git push`, and open the PR?**
 
-Add your answer here.
+Human Act is when I execute git commit, git push, and create the Pull Request.It modify the repository and publish changes to GitHub, so they require human approval.
 
 ---
 
 **4. Which step is Verify?**
 
-Add your answer here.
+Verify includes checking that the pre-commit hook passed successfully, confirming the commit was created, ensuring the branch was pushed correctly, reviewing the generated pull request, and verifying that the final PR accurately represents the intended changes.
 
 ---
 
 **5. In one or two sentences: why do you need *both* the fixed-rule pre-commit hook and the AI skill? Isn't one enough?**
-
-Add your answer here.
-
+```
+The pre-commit hook automatically enforces fixed rules, such as checking for secrets or formatting issues, before code is committed.
+AI skills needed in feedback and improving the pull request description.
+```
 ---
 
 # Task 8 — LinkedIn Post
@@ -275,7 +277,7 @@ Publish a LinkedIn post summarizing what you built and what you learned about co
 
 #### LinkedIn Post URL
 
-Add your LinkedIn post URL here...
+`https://www.linkedin.com/posts/blessy-s-06b379269_dmibypravinmishra-devops-agenticai-share-7486435308142673921-WdLz/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74`
 
 ---
 
@@ -283,9 +285,11 @@ Add your LinkedIn post URL here...
 
 Add 3-5 bullet points on what you learned this week.
 
--
--
--
+-Implemented a fixed-rule pre-commit safety check
+-Used AI to generate and improve a Pull Request description
+-Reviewed and refined the AI-generated content before using it
+-Committed, pushed my changes, and created a Pull Request using the standard GitHub workflow
+-Learned how AI supports developers without replacing human responsibility
 
 ---
 
@@ -305,7 +309,7 @@ Add 3-5 bullet points on what you learned this week.
 
 Paste your forked repository URL here:
 
-`Add your URL here`
+`https://github.com/blessy2/devops-micro-internship-interviews.git`
 
 ---
 
