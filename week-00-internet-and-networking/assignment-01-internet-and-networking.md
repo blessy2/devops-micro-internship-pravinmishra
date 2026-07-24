@@ -34,7 +34,10 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+-dATA
+-PACKAGING
+-RULE
+-TRANSMISSION
 
 ---
 
@@ -59,7 +62,10 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+Online book store EpicReads has a unique website and is hosted in Finland.This website address starts with http(80 port number and is unsecure communication) or https(secure communication uses 443 port number). HTTPS also encrypts the data, 
+keeping user information safe . User URL request travels across the internet using packet switching, where data is broken into small packets and sent separately, then reassembled at the destination.When a user uses DNS name of this bookstore address to reach the website from anywhere in the world, behind the scene it uses packet switching, where data is broken into small packets and sent separately, then reassembled at the destination. Domain name system resolves to IP address by 
+checking cache, asking DNS resolver, checking in root server, checking the top level domain server , and then finding IP and connecting to the website. Overall this communication needs reliability, what ever send ,should receive it in the destination and in the same order.This process uses TCP/IP protocol suite , which ensures all packets 
+arrive correctly and in order, while IP handles routing them across networks. Together, these technologies allow anyone globally to access EpicReads quickly and reliably. 
 
 ---
 
@@ -102,18 +108,15 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* HTML, CSS and Java Script 
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+*Node.js , python(Flask, Django) 
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+*  My SQL and Postgre SQL 
 
 ---
 
@@ -142,7 +145,19 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+Bookstore EpicReads, purchased a domain: epicreads.com where .com is the root 
+server of this domain. When a URL enter the domain name, it resolves to Ip: port for 
+52.172.142.222:3000. 3000 is the port number and 52.172.142.222 is the internet 
+protocol number. It is hard to remember this IP number for a human, hence introduced 
+more friendly naming as DNS (domain name system). We can consider it as a internet’s 
+phonebook- which translates human friendly domain name (here epicreads.com) to 
+machine readable IP address (here 52.172.142.222). Hence the user can see the 
+website content. Not always website can be viewed in 80 or 443 port, but some custom 
+port, like 3000.
+When purchase DNS from route 53 or other providers, there is a record type(A ,AAAA, 
+CNAME type,MX recorder, TXT recorder). Basically, A record type maps a domain name 
+directly to an Ipv4 address, so that DNS can resolve to correct IPv4 address. In case the 
+website use IPv6, then AAAA record the matched one.
 
 ---
 
