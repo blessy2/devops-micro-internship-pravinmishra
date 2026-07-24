@@ -232,7 +232,8 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-```https://www.linkedin.com/posts/blessy-s-06b379269_to-ensure-that-i-am-industry-ready-to-take-activity-7440680650346704896-h5-S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74
+```
+https://www.linkedin.com/posts/blessy-s-06b379269_to-ensure-that-i-am-industry-ready-to-take-activity-7440680650346704896-h5-S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74
 ```
 
 ---
