@@ -57,7 +57,7 @@ On your own fork of this repository (the one you've been submitting your DMI wor
 
 **1. Why does this assignment use an obviously fake key instead of a real one?**
 
-Add your answer here.
+The assignment uses an obviously fake key to safely demonstrate how secret detection works without exposing any real credentials.
 
 ---
 
@@ -85,13 +85,13 @@ Create a tracked, shareable pre-commit hook that blocks a commit containing secr
 
 **1. Why is `hooks/pre-commit` tracked in the repo instead of living only in `.git/hooks/`?**
 
-Add your answer here.
+hooks/pre-commit is tracked in the repository so it can be shared with everyone working on the project. Files inside .git/hooks/ are local to each developer and are not version-controlled, so other team members would not receive them.
 
 ---
 
 **2. Compare this to `PreToolUse` from Week 2 Assignment 6. What does each one intercept, and what do they have in common?**
 
-Add your answer here.
+Both act as preventive checkpoints that stop problems early, enforce consistent rules, and improve safety before an action is completed.
 
 ---
 
@@ -113,13 +113,13 @@ Attempt to commit the staged file from Task 1 and show the hook rejecting it.
 
 **1. Which line in `hooks/pre-commit` matched your fake key, and why did it match?**
 
-Add your answer here.cd 
+The line containing the regular expression that checks for AWS Access Key IDs matched my fake key. 
 
 ---
 
 **2. Could this hook have caught a poorly-named variable that stores a secret without the `AKIA` prefix? What does that tell you about the limits of a fixed rule like this?**
 
-Add your answer here.
+No. This hook would not catch it because it only looks for specific patterns, like keys that start with AKIA. If a secret is stored in a variable with a different format, the hook may miss it.
 
 ---
 
@@ -148,14 +148,13 @@ Create a manually invoked Claude Code skill that reads your staged changes and p
 ### Notes
 
 **1. Why does `/pr-ready` have `Bash` and `Read` but not `Write`?**
-
-Add your answer here.
+/pr-ready has Bash and Read permissions because it needs to read the project files and run Git commands to review the changes. It does not have Write permission because it should not change or edit the code automatically.
 
 ---
 
 **2. The pre-commit hook and `/pr-ready` both looked at the same staged diff. Did they flag the same things? What did one catch that the other didn't?**
 
-Add your answer here.
+No, they did not flag the same things. The pre-commit hook checked for fixed rules, such as detecting a fake secret key, and blocked the commit when the rule was violated. /pr-ready reviewed the staged changes, summarized what was changed, and suggested improvements for the Pull Request. The pre-commit hook enforced rules, while /pr-ready provided helpful review and guidance
 
 ---
 
@@ -183,7 +182,7 @@ Remove the secret and debug statement, then prove both gates now pass clean.
 
 **1. What exactly did you change to satisfy the pre-commit hook?**
 
-Add your answer here.
+I removed the fake AWS access key from the file so it no longer matched the secret detection rule.
 
 ---
 
