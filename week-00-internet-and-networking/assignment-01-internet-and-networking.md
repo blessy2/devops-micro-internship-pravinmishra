@@ -232,8 +232,7 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-```text
-Add your URL here...
+```https://www.linkedin.com/posts/blessy-s-06b379269_to-ensure-that-i-am-industry-ready-to-take-activity-7440680650346704896-h5-S?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEG6aBMB0zfBR9hQTWrl7i6zZCygzNyvY74
 ```
 
 ---
@@ -241,28 +240,38 @@ Add your URL here...
 ## LinkedIn Post Backup Copy
 
 Paste the full text of your LinkedIn post here:
+```
+To ensure that I am industry ready to take any coming IT changes (with emerging AI era) I start my learning in a clear and structured way with cohort as keep in my mind that consistency is the key to success 👍 . Basic understanding of below points is key to start of any learning at any point of time in career switches
+ChatGPT: Learn and practise precise and clear prompt to get best answers from your agent
+Internet & Networking: Without knowing what and how internet and networking flows, it will be hard to understand applications itself. Packet switching, TCP, HTTPS are basic terminologies on it.
+App Architecture: Architecture is like a blueprint. When I work with project, immediate attention pays in architectural diagram, which gives you a thorough knowledge on the structure of application whether 2 tier ,3 tier or microservice based and its technologies in each stack.
+DNS: Domain name system is like internet’s phone book for conversion of human friendly domain names to machine readable ip address.
+VS Code Setup: When ever I need to work on development, my priority is to work with Visual studio Code
+P.S. This post is part of the FREE DevOps Micro Internship Cohort run by Pravin Mishra. You can start your DevOps journey for free from his YouTube Playlist.
 
-Add your post content here...
-
+**P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. 
+My graded progress is public: https://lnkd.in/d5jnG2fH · 
+Start your DevOps journey:
+https://lnkd.in/dB8C7bcd```
 ---
 
 # Reflection – Week 0
 
 ### What did you find easy?
 
-Add your answer here...
+I feel the flow and structure of course is easy
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Writing articles feels me difficult.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Publish more facts into medium and social media by next week.
 
 ---
 
